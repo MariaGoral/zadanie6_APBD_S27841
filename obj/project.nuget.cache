@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7TXRfnDnRI=",
+  "success": true,
+  "projectFilePath": "/Users/mariagoral/Downloads/PrescriptionAPI_FINAL/PrescriptionAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariagoral/.nuget/packages/builder/1.0.1/builder.1.0.1.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.aspnetcore.jsonpatch/9.0.0-preview.5.24306.11/microsoft.aspnetcore.jsonpatch.9.0.0-preview.5.24306.11.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/9.0.0-preview.5.24306.11/microsoft.aspnetcore.mvc.newtonsoftjson.9.0.0-preview.5.24306.11.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.entityframeworkcore/9.0.0-preview.5.24306.3/microsoft.entityframeworkcore.9.0.0-preview.5.24306.3.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0-preview.5.24306.3/microsoft.entityframeworkcore.abstractions.9.0.0-preview.5.24306.3.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.0-preview.5.24306.3/microsoft.entityframeworkcore.analyzers.9.0.0-preview.5.24306.3.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.entityframeworkcore.inmemory/9.0.0-preview.5.24306.3/microsoft.entityframeworkcore.inmemory.9.0.0-preview.5.24306.3.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.0-preview.5.24306.7/microsoft.extensions.caching.abstractions.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.extensions.caching.memory/9.0.0-preview.5.24306.7/microsoft.extensions.caching.memory.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.5.24306.7/microsoft.extensions.dependencyinjection.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.5.24306.7/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.extensions.logging/9.0.0-preview.5.24306.7/microsoft.extensions.logging.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-preview.5.24306.7/microsoft.extensions.logging.abstractions.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.extensions.options/9.0.0-preview.5.24306.7/microsoft.extensions.options.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.5.24306.7/microsoft.extensions.primitives.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/modelbuilder/8.6.0/modelbuilder.8.6.0.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/mariagoral/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "PrescriptionAPI depends on Microsoft.AspNetCore.Mvc.NewtonsoftJson (>= 9.0.0-preview.5.24306.2) but Microsoft.AspNetCore.Mvc.NewtonsoftJson 9.0.0-preview.5.24306.2 was not found. Microsoft.AspNetCore.Mvc.NewtonsoftJson 9.0.0-preview.5.24306.11 was resolved instead.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "PrescriptionAPI depends on Microsoft.EntityFrameworkCore (>= 9.0.0-preview.5.24306.2) but Microsoft.EntityFrameworkCore 9.0.0-preview.5.24306.2 was not found. Microsoft.EntityFrameworkCore 9.0.0-preview.5.24306.3 was resolved instead.",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "PrescriptionAPI depends on Microsoft.EntityFrameworkCore.InMemory (>= 9.0.0-preview.5.24306.2) but Microsoft.EntityFrameworkCore.InMemory 9.0.0-preview.5.24306.2 was not found. Microsoft.EntityFrameworkCore.InMemory 9.0.0-preview.5.24306.3 was resolved instead.",
+      "libraryId": "Microsoft.EntityFrameworkCore.InMemory",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
